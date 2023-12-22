@@ -10,7 +10,7 @@ The purpose of this contract is to demonstrate the usage of a custom struct (MyS
 
 Copy these contract in Flow Playground and Deploy the contract. After deployment, you can interact with the contract.
 
-[play.flow.com](https://play.onflow.org/)https://play.onflow.org/
+(https://play.onflow.org/)https://play.onflow.org/
 
 ### Author
 
